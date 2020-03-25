@@ -28,7 +28,7 @@ https://live.we-play.tv/app/axn/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2018/12/warnertv.jpg" group-title="TH_Entertain" tvg-id="" tvg-name="", Warner
 https://live.we-play.tv/app/warner/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2018/12/paramount.jpg" group-title="TH_Entertain" tvg-id="" tvg-name="", Paramount
-https://live.we-play.tv/app/paramount/playlist.m3u8
+http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/paramountchannel/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/08/scm.jpg" group-title="TH_Entertain" tvg-id="" tvg-name="", Star Chinese Movies
 https://live.we-play.tv/app/scm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2020/03/hits-movies.jpg" group-title="TH_Entertain" tvg-id="" tvg-name="", Hits
