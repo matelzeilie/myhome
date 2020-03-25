@@ -1,0 +1,148 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/01/foxth.jpg" group-title="TH_Entertain" tvg-id="" tvg-name="", Fox thai
+http://iliketot.dyndns.tv/63cbfb466fe644dda11a8e109611a5cd.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/06/fox-life.jpg" group-title="TH_Entertain" tvg-id="" tvg-name="", Fox life
+http://iliketot.dyndns.tv/65f7358b813048a0898f5677e1793cf9.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/01/foxaction.jpg" group-title="TH_Entertain" tvg-id="" tvg-name="", Fox action
+http://iliketot.dyndns.tv/206105b34a1c44b886c6cd3c59105803.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2018/12/fox-crime.jpg" group-title="TH_Entertain" tvg-id="" tvg-name="", Fox crime
+http://iliketot.dyndns.tv/48773319e9324602b258e3f1d33ec111.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/fox-family.jpg" group-title="TH_Entertain" tvg-id="" tvg-name="", Fox family
+https://tv4.chang55.com/live/tot10.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2018/12/fox-movies-premium.jpg" group-title="TH_Entertain" tvg-id="" tvg-name="", Fox movies
+https://tv4.chang55.com/live2/tv4ch82.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2018/12/hbo-hd.jpg" group-title="TH_Entertain" tvg-id="" tvg-name="", HBO
+https://tv4.chang55.com/live2/tv4ch79.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truefilmhd.jpg" group-title="TH_Entertain" tvg-id="" tvg-name="", truefilmhd1
+https://tv4.chang55.com/live2/tv4ch93.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/06/truefilmhd2.jpg" group-title="TH_Entertain" tvg-id="" tvg-name="", truefilmhd2
+https://live.we-play.tv/app/truefilmhd2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/truethaifilm.jpg" group-title="TH_Entertain" tvg-id="" tvg-name="", True Thai Film
+https://live.we-play.tv/app/truethaifilm/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/04/truexzyte.jpg" group-title="TH_Entertain" tvg-id="" tvg-name="", True X-ZYTE
+https://live.we-play.tv/app/xzyte/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/10/true-music.jpg" group-title="TH_Entertain" tvg-id="" tvg-name="", True Music HD
+https://live.we-play.tv/app/truemusic/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2018/12/axnhd.jpg" group-title="TH_Entertain" tvg-id="" tvg-name="", AXN
+https://live.we-play.tv/app/axn/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2018/12/warnertv.jpg" group-title="TH_Entertain" tvg-id="" tvg-name="", Warner
+https://live.we-play.tv/app/warner/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2018/12/paramount.jpg" group-title="TH_Entertain" tvg-id="" tvg-name="", Paramount
+https://live.we-play.tv/app/paramount/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/08/scm.jpg" group-title="TH_Entertain" tvg-id="" tvg-name="", Star Chinese Movies
+https://live.we-play.tv/app/scm/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2020/03/hits-movies.jpg" group-title="TH_Entertain" tvg-id="" tvg-name="", Hits
+https://live.we-play.tv/app/hits/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2020/03/hits.jpg" group-title="TH_Entertain" tvg-id="" tvg-name="", Hits movies
+https://live.we-play.tv/app/hitsmovies/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/04/hi-def1.jpg" group-title="TH_Entertain" tvg-id="" tvg-name="", Hi-def1
+https://live.we-play.tv/app/hi-def1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doofree88.com/storage/live/gu3DRQdle7xPttwMgHXabXzoi4GFCs4UKTCRWFd3.jpg" group-title="TH_Entertain" tvg-id="" tvg-name="", FX
+https://tv4.chang55.com/live/tot13.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/blueant-entertainment.jpg" group-title="TH_Entertain" tvg-id="" tvg-name="", blueant-entertainment
+https://live.we-play.tv/app/blue-ent/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/blueant-extreme.jpg" group-title="TH_Entertain" tvg-id="" tvg-name="", blueant-extreme
+https://live.we-play.tv/app/blue-ext/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/kbs-world.jpg" group-title="TH_Entertain" tvg-id="" tvg-name="", KBS
+https://live.we-play.tv/app/kbs/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/ccm.jpg" group-title="TH_Entertain" tvg-id="" tvg-name="", CCM
+https://live.we-play.tv/app/ccm/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/KIX_Thailand.png" group-title="TH_Entertain" tvg-id="" tvg-name="", KIX
+https://tv4.chang55.com/live/tot08.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/m-channel.png" group-title="TH_Entertain" tvg-id="" tvg-name="", M CHANNEL
+http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/mchannel.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://monoplus.mthai.com/app/themes/monoplus/images/logo_monoplus.png?3" group-title="TH_Entertain" tvg-id="" tvg-name="", MONO PLUS HD
+https://edge4-bkk.3bb.co.th:9443/MonoPlus_LiveHLS/monoplusLive_HLS1080p.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/Thrill.png" group-title="TH_Entertain" tvg-id="" tvg-name="", thrill
+http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/thrilllhd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/02/nationalgeographic.jpg" group-title="TH_Documentary" tvg-id="" tvg-name="", National Geographic
+https://live.we-play.tv/app/natgeo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/02/natgeowild.jpg" group-title="TH_Documentary" tvg-id="" tvg-name="", Nat Geo Wild
+https://live.we-play.tv/app/natwild/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doofree88.com/storage/live/aERcBjucC3rmuCHsezSxdHIyDW8xeL4yd4Mwq47u.jpg" group-title="TH_Documentary" tvg-id="" tvg-name="", Nat Geo People
+https://tv4.chang55.com/live/tot07.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/historyhd.jpg" group-title="TH_Documentary" tvg-id="" tvg-name="", H1
+https://live.we-play.tv/app/history/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/h2.jpg" group-title="TH_Documentary" tvg-id="" tvg-name="", H2
+https://live.we-play.tv/app/h2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/discovery-1.jpg" group-title="TH_Documentary" tvg-id="" tvg-name="", Discovery
+https://live.we-play.tv/app/discovery/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/discovery-asia.jpg" group-title="TH_Documentary" tvg-id="" tvg-name="", Discovery Asia
+https://live.we-play.tv/app/disasia/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/bbc-earth.jpg" group-title="TH_Documentary" tvg-id="" tvg-name="", BBC-earth
+https://live.we-play.tv/app/bbc-earth/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/sumruajlok.jpg" group-title="TH_Documentary" tvg-id="" tvg-name="", สำรวจโลก
+https://live.we-play.tv/app/samruajlok/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/animal-planet.jpg" group-title="TH_Documentary" tvg-id="" tvg-name="", Animal Planet
+https://live.we-play.tv/app/animalplanet/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesportshd.jpg" group-title="TH_Sports" tvg-id="" tvg-name="", true sports hd1
+https://live.we-play.tv/app/thd1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesportshd2.jpg" group-title="TH_Sports" tvg-id="" tvg-name="", true sports hd2
+https://live.we-play.tv/app/thd2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesportshd3.jpg" group-title="TH_Sports" tvg-id="" tvg-name="", true sports hd3
+https://live.we-play.tv/app/thd3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/true-epl-1.jpg" group-title="TH_Sports" tvg-id="" tvg-name="", True Premier Football HD 1
+https://live.we-play.tv/app/true-epl-1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/true-epl-2.jpg" group-title="TH_Sports" tvg-id="" tvg-name="", True Premier Football HD 2
+https://live.we-play.tv/app/tpf2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/nbatv.jpg" group-title="TH_Sports" tvg-id="" tvg-name="", NBA
+https://live.we-play.tv/app/nba/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truetennis.jpg" group-title="TH_Sports" tvg-id="" tvg-name="", True tennis
+https://live.we-play.tv/app/tennis/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/golfchannel.jpg" group-title="TH_Sports" tvg-id="" tvg-name="", True golf
+https://live.we-play.tv/app/golf/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesports2.jpg" group-title="TH_Sports" tvg-id="" tvg-name="", true sports 2
+https://live.we-play.tv/app/tsp2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesports7.jpg" group-title="TH_Sports" tvg-id="" tvg-name="", true sports 7
+https://live.we-play.tv/app/tsp7/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/foxsporthd.jpg" group-title="TH_Sports" tvg-id="" tvg-name="", Fox1
+https://live.we-play.tv/app/fox1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/foxsport2.jpg" group-title="TH_Sports" tvg-id="" tvg-name="", Fox2
+https://live.we-play.tv/app/fox2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/foxsport3.jpg" group-title="TH_Sports" tvg-id="" tvg-name="", Fox3
+https://live.we-play.tv/app/fox3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2018/11/bein1.jpg" group-title="TH_Sports" tvg-id="" tvg-name="", beIN SPORTS 1
+https://live.we-play.tv/app/bein1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2018/11/bein2.jpg" group-title="TH_Sports" tvg-id="" tvg-name="", beIN SPORTS 2
+https://live.we-play.tv/app/bein2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/01/ch5.jpg" group-title="TH_DTV" tvg-id="" tvg-name="", 5HD
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/5hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tv.mthai.com/app/uploads/2017/09/nbt.png" group-title="TH_DTV" tvg-id="" tvg-name="", NBT HD
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/nbt.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/06/thaipbs.jpg" group-title="TH_DTV" tvg-id="" tvg-name="", TPBS HD
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/thaipbs.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tv.mthai.com/app/uploads/2017/09/tnn24.png" group-title="TH_DTV" tvg-id="" tvg-name="", TNN24
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/tnn24.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tv.mthai.com/app/uploads/2017/09/newtv.png" group-title="TH_DTV" tvg-id="" tvg-name="", NEWS18
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/newstv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/06/nationtv.jpg" group-title="TH_DTV" tvg-id="" tvg-name="", nation
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/nation.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/10/workpointtv.jpg" group-title="TH_DTV" tvg-id="" tvg-name="", Workpoint
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/workpointtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tv.mthai.com/app/uploads/2017/09/true4u-3.png" group-title="TH_DTV" tvg-id="" tvg-name="", True4u
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/true4u.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/10/gmm25.jpg" group-title="TH_DTV" tvg-id="" tvg-name="", GMM25
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/gmmchannel.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tv.mthai.com/app/uploads/2017/09/8.png" group-title="TH_DTV" tvg-id="" tvg-name="", CH8
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/ch8.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/01/mono29.jpg" group-title="TH_DTV" tvg-id="" tvg-name="", Mono29
+https://59ffdfa4495c3.streamlock.net/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/01/mcothd.jpg" group-title="TH_DTV" tvg-id="" tvg-name="", MCOT HD
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/mcothd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/one31.jpg" group-title="TH_DTV" tvg-id="" tvg-name="", ONE HD
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/onehd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/06/thairathtv.jpg" group-title="TH_DTV" tvg-id="" tvg-name="", THAIRAHT HD
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/dtv32_thairahttvhd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/01/ch3hd.jpg" group-title="TH_DTV" tvg-id="" tvg-name="", 3HD
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/3hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/10/amarintv.jpg" group-title="TH_DTV" tvg-id="" tvg-name="", AMARIN HD
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/amarinhd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/01/ch7hd.jpg" group-title="TH_DTV" tvg-id="" tvg-name="", 7HD
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/7hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/01/pptv.jpg" group-title="TH_DTV" tvg-id="" tvg-name="", PPTV HD
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/pptvhd.smil/playlist.m3u8
