@@ -16,7 +16,7 @@ https://tv4.chang55.com/live2/tv4ch79.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truefilmhd.jpg" group-title="TH_Entertain" tvg-id="" tvg-name="", truefilmhd1
 https://tv4.chang55.com/live2/tv4ch93.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/06/truefilmhd2.jpg" group-title="TH_Entertain" tvg-id="" tvg-name="", truefilmhd2
-https://live.we-play.tv/app/truefilmhd2/playlist.m3u8
+https://live.we-play.tv/android/truefilmhd2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/truethaifilm.jpg" group-title="TH_Entertain" tvg-id="" tvg-name="", True Thai Film
 https://live.we-play.tv/app/truethaifilm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/04/truexzyte.jpg" group-title="TH_Entertain" tvg-id="" tvg-name="", True X-ZYTE
